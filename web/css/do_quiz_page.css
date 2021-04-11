@@ -1,0 +1,48 @@
+
+.active-purple-2 input.form-control[type=text]:focus:not([readonly]) {
+    border-bottom: 1px solid #ce93d8;
+    box-shadow: 0 1px 0 0 #ce93d8;
+    width: 100px;
+}
+
+.form-inline .form-control {
+    margin: 10px;
+}
+
+#select-quiz-form {
+    margin: 0 auto;
+}
+
+#search-quiz-form {
+   margin: 0 auto; 
+}
+
+.container-fluid {
+    margin-top: 15px;
+}
+
+#center-history-form {
+    width: 70%;
+    margin: 0 auto;
+}
+
+#question-list {
+    margin-top: 15px;
+}
+
+#button-next {
+    margin: 15px;
+}
+
+#question-form {
+    margin: 20px;
+    padding: 20px;
+}
+
+#button-submit {
+     margin: 5px;
+}
+
+#timer {
+    padding: 15px;
+}
